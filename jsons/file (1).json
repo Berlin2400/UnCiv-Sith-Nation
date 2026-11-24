@@ -1,0 +1,61 @@
+[
+  {
+    "name": "New Respuplic",
+    "leaderName": "Dath Veader",
+    "adjective": [
+      "Lord"
+    ],
+    "startBias": [
+      "Snow"
+    ],
+    "preferredVictoryType": "Military",
+    "startIntroPart1": "Its time... To New Respuplic!",
+    "startIntroPart2": "Let's.",
+    "declaringWar": "Time to destroy this broken off the face of the earth.",
+    "attacked": "Fool! You will Die.",
+    "defeated": "Its only start...",
+    "introduction": "New Respuplic greets you.",
+    "neutralHello": "What you need?",
+    "hateHello": "Rebel!",
+    "tradeRequest": "We would recommend that you read it and think carefully.",
+    "denounced": "You, rebels will be destroyed.",
+    "declaringfriendship": "You deserve our trust.",
+    "outerColor": [
+      235,
+      0,
+      0
+    ],
+    "innerColor": [
+      0,
+      0,
+      0
+    ],
+    "unique": "Sith",
+    "cities": [
+      "Alpha",
+      "Beta",
+      "Gamma",
+      "Delta",
+      "Epsilon",
+      "Zeta",
+      "Eta",
+      "Theta",
+      "Lota",
+      "Kappa",
+      "Lambda",
+      "Mu",
+      "Nu",
+      "Xi",
+      "Omicron",
+      "Pi",
+      "Rho",
+      "Sigma",
+      "Tau",
+      "Upsilon",
+      "Phi",
+      "Chi",
+      "Psi",
+      "Omega"
+    ]
+  }
+]
